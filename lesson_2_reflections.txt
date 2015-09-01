@@ -1,0 +1,2 @@
+1: The staging area is different because its a midway point for moving files into the repository.
+2: 

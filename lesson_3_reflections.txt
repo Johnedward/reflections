@@ -4,4 +4,6 @@
 A clone is just a copy of someones repository that you have save to your local machine. it will not have a link to the original unless you specically add it.
 
 Branches are used when you want to work on a diffferent feature that might not be ready for the main branch.
+3: The bennifit of having a copy of the last know state of the remote stored locally would be if you were going somewhere without an internet connection you could work on a new branch without imeadiatly working from the latest build.
+4: 
 

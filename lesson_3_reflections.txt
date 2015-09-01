@@ -1,2 +1,7 @@
 1: You want to pull changes from github manually because you want to know when and what changes were made. If it automatically added the changes it might break the code or leave you not knowing what caused a bug.
-2: 
+2: A fork is when you clone someone elses repository on github and still link back to it so they get creddit for the original. this is good if you want to add some changes and send it back to them.
+	
+A clone is just a copy of someones repository that you have save to your local machine. it will not have a link to the original unless you specically add it.
+
+Branches are used when you want to work on a diffferent feature that might not be ready for the main branch.
+

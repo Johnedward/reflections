@@ -1,2 +1,6 @@
 1: The staging area is different because its a midway point for moving files into the repository.
-2: 
+2: When you add your files to the staging area you only add the ones that go together
+3: Branches help because if you want to add a new feature thayt may cause problem you want it to be on a seperate string.
+4: The diagrams show how each branch seperates to its own branch
+5: Merging to branches together puts all the updates from both files into one branch.
+6: Gits automatic merging makes it much easier to merge branches if you had to do it by hand it would take forever. and even where there are conflicts it makes it simple to see.

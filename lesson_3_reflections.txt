@@ -6,5 +6,5 @@ A clone is just a copy of someones repository that you have save to your local m
 Branches are used when you want to work on a diffferent feature that might not be ready for the main branch.
 3: The bennifit of having a copy of the last know state of the remote stored locally would be if you were going somewhere without an internet connection you could work on a new branch without imeadiatly working from the latest build.
 4: Without gitHub it would be very difficult to collaborate with different people because you would have to be constantly emailing people with current commits. I'm not really sure if there is another way to do it. merging the code to would be a problem. gitHub is a very useful tool.
-5: 
+5: You would want to make changes on a seperate branch if you were working on a new feature that you didnt want to be live yet or that wasnt ready yet. this keeps it so you can have a stable working version while you play around with new ideas and features.
 
